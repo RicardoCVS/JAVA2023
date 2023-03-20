@@ -1,2 +1,2 @@
-public class Ejercicio30 git{
+public class Ejercicio30{
 }
